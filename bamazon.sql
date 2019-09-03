@@ -21,4 +21,6 @@ VALUES
 ("Classic Premium All Purpose Clear Wine Glasses", "Sports & Outdoors", 18.50, 24), 
 ("Coleman Gas Stoves", "Backpacking and Camping Stoves", 43.88, 33),
 ("Hasbro Gaming Rubik's Cube", "Toys and Games", 4.49,90),
-("")
+("PANASONIC LUMIX GH5 4K Digital Camera, 20.3 Megapixel Mirrorless Camera with Digital Live", "Camera and Photo", 1497.99, 120),
+("Pampers Swaddlers Disposbale Baby Diapers", "Health & Personal Care", 32.38, 55),
+("Hatch Baby Rest Sound Machine Night Light", "Nursery Night Lights", 59.99, 140),
