@@ -23,4 +23,6 @@ VALUES
 ("Hasbro Gaming Rubik's Cube", "Toys and Games", 4.49,90),
 ("PANASONIC LUMIX GH5 4K Digital Camera, 20.3 Megapixel Mirrorless Camera with Digital Live", "Camera and Photo", 1497.99, 120),
 ("Pampers Swaddlers Disposbale Baby Diapers", "Health & Personal Care", 32.38, 55),
-("Hatch Baby Rest Sound Machine Night Light", "Nursery Night Lights", 59.99, 140),
+("Hatch Baby Rest Sound Machine Night Light", "Nursery Night Lights", 59.99, 140);
+
+
