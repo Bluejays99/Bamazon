@@ -17,7 +17,8 @@ VALUES
 ("13 Hours: The Secret Soldiers of Benghazi", "Movies", 14.99, 10),
 ("LED Tall Floor Lamp", "Home Decor", 29.99, 10),
 ("High Sierra Loop Backpack for Men", "Sports & Outdoors", 29.99, 10),
-("Hot Hand Poker Supply Folding Poker", "Sports & Outdoors", 276.66, 5),
-("Classic Premium All Purpose Clear Wine Glasses", "Sports & Outdoors", 18.50, 5), 
-("Coleman Gas Stoves", "Backpacking and Camping Stoves", 43.88, 3),
+("Hot Hand Poker Supply Folding Poker", "Sports & Outdoors", 276.66, 18),
+("Classic Premium All Purpose Clear Wine Glasses", "Sports & Outdoors", 18.50, 24), 
+("Coleman Gas Stoves", "Backpacking and Camping Stoves", 43.88, 33),
+("Hasbro Gaming Rubik's Cube", "Toys and Games", 4.49,90),
 ("")
